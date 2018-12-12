@@ -11,15 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6283aba-515e-4e1a-8f8b-3a6d2338472f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/book_store_logo_46c984fb82_seeklogo.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/book_store_logo_46c984fb82_seeklogo.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/book_store_logo_46c984fb82_seeklogo.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/book_store_logo_46c984fb82_seeklogo.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/book_store_logo_46c984fb82_seeklogo.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/book_store_logo_46c984fb82_seeklogo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b6283aba-515e-4e1a-8f8b-3a6d2338472f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
